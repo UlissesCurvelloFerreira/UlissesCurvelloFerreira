@@ -10,21 +10,11 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=UlissesCurvelloFerreira&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=0000CD&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesCurvelloFerreira&layout=compact&hide_border=true&title_color=4169E1&text_color=DCDCDC&bg_color=0d1117" />
 </div>
-</div>
 
 <br>
 <br>
 <br>
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=UlissesCurvelloFerreira&bg_color=gba(0d1117)&color=8e93cc&line=1100ff&point=04101a&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=120% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=150&section=footer"/>
-
-
-
-
-
-
-
-

@@ -34,9 +34,9 @@
 <br>
 
 <div align="center">  
-  <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api?username=UlissesCurvelloFerreira&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=0000CD&text_color=000000&bg_color=0000" alt="Caroline Barbosa github stats" />
+  <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api?username=UlissesCurvelloFerreira&show_icons=true&count_private=true&hide_border=true&title_color=0000CD&icon_color=0000CD&text_color=1E90FF&bg_color=0000" alt="Caroline Barbosa github stats" />
   
-  <img width="44%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesCurvelloFerreira&layout=compact&hide_border=true&title_color=4169E1&text_color=000000&bg_color=0000" />
+  <img width="44%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesCurvelloFerreira&layout=compact&hide_border=true&title_color=0000CD&text_color=1E90FF&bg_color=0000" />
 </div>
 
 <br>

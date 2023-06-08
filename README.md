@@ -1,12 +1,16 @@
 <img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=100&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?Code&pause=1000&color=0000CD&size=30&center=true&width=1000&lines=Welcome+to+my+profile;HELLO,+My+name+is+Ulisses;Computer+science+student+:%29)](https://git.io/typing-svg)
+
+<br>
+<br>
+<br>
+
 ## EM CONFIGURAÇÃO!!!
 
 ## Sobre mim
 
 I'm Ulisses, a technology enthusiast and a student with a passion for creating innovative solutions through programming. Below are some of my recent university projects. Feel free to explore the scripts available in my repository.
-
-
 
 
 ## Últimos trabalhos
@@ -24,9 +28,6 @@ Você pode entrar em contato comigo através do seguinte e-mail: ## Em configura
 <br>
 <br>
 <br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?Code&pause=1000&color=0000CD&size=30&center=true&width=1000&lines=Welcome+to+my+profile;HELLO,+My+name+is+Ulisses;Computer+science+student+:%29)](https://git.io/typing-svg)
-
 
 <div align="center">  
   <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api?username=UlissesCurvelloFerreira&show_icons=true&count_private=true&hide_border=true&title_color=0000CD&icon_color=0000CD&text_color=1E90FF&bg_color=0000" alt="Caroline Barbosa github stats" />

@@ -39,11 +39,10 @@ Você pode entrar em contato comigo através do seguinte e-mail: ## Em configura
 <br>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=UlissesCurvelloFerreira&bg_color=gba(0d1117)&color=8e93cc&line=1100ff&point=04101a&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UlissesCurvelloFerreira&bg_color=0d1117&color=8e93cc&line=1100ff&point=04101a&area=&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <br>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CD&size=20&center=true&width=1000&lines=Thanks+for+the+visit.)](https://git.io/typing-svg)
 
 <img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=100&section=footer"/>

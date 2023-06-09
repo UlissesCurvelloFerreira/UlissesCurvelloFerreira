@@ -39,7 +39,7 @@ Você pode entrar em contato comigo através do seguinte e-mail: ## Em configura
 <br>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UlissesCurvelloFerreira&bg_color=00&color=C0C0C0&line=1100ff&point=808080&area=&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UlissesCurvelloFerreira&bg_color=00&color=4169E1&line=1100ff&point=808080&area=&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <br>

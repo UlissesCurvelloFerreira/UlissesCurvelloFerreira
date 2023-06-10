@@ -3,27 +3,37 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?Code&pause=1000&color=4169E1&size=30&center=true&width=1000&lines=Welcome+to+my+profile;HELLO,+My+name+is+Ulisses;Computer+science+student+:%29)](https://git.io/typing-svg)
 
 <br>
+
+<div align="center">
+<h1>About Me</h1>
+</div>
+
+<p style="text-align: justify;">Hello, my name is Ulisses and I am a technology enthusiast and a student passionate about creating innovative solutions through programming. Currently, I am studying at UFPR (Federal University of Paraná) and constantly seeking opportunities to expand my knowledge and enhance my skills.</p>
+
 <br>
 <br>
+<br>
 
-## EM CONFIGURAÇÃO!!!
+<div align="center">
+<h1>Recent Projects</h1>
+</div>
 
-## Sobre mim
+  <li><a href="https://example.com/project1">Project 1</a> - Brief description of project 1.</li>
+  <li><a href="https://example.com/project2">Project 2</a> - Brief description of project 2.</li>
+  <li><a href="https://example.com/project3">Project 3</a> - Brief description of project 3.</li>
 
-I'm Ulisses, a technology enthusiast and a student with a passion for creating innovative solutions through programming. Below are some of my recent university projects. Feel free to explore the scripts available in my repository.
+<div align="center">
+  
+<br>
+<br>
+<br>
+  
+<h1>Contact</h1>
 
+<p style="text-align: justify;">If you have any questions, collaboration opportunities, or just want to chat, feel free to get in touch with me. You can reach me at the following email address: [Your email address]. I am always eager to learn and grow, so don't hesitate to connect with me.</p>
 
-## Últimos trabalhos
+</div>
 
-Aqui estão alguns dos trabalhos recentes:
-
-- [Projeto 1](link_para_o_projeto_1): Breve descrição do projeto.
-- [Projeto 2](link_para_o_projeto_2): Breve descrição do projeto.
-- [Projeto 3](link_para_o_projeto_3): Breve descrição do projeto.
-
-## Contato
-
-Você pode entrar em contato comigo através do seguinte e-mail: ## Em configuração. Fique à vontade para me contatar se tiver alguma pergunta, oportunidade de colaboração ou apenas para bater um papo.
 
 <br>
 <br>

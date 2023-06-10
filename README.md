@@ -4,9 +4,7 @@
 
 <br>
 
-<div align="center">
 <h1>About Me</h1>
-</div>
 
 <p style="text-align: justify;">Hello, my name is Ulisses and I am a technology enthusiast and a student passionate about creating innovative solutions through programming. Currently, I am studying at UFPR (Federal University of Paraná) and constantly seeking opportunities to expand my knowledge and enhance my skills.</p>
 
@@ -14,16 +12,12 @@
 <br>
 <br>
 
-<div align="center">
 <h1>Recent Projects</h1>
-</div>
 
   <li><a href="https://example.com/project1">Project 1</a> - Brief description of project 1.</li>
   <li><a href="https://example.com/project2">Project 2</a> - Brief description of project 2.</li>
   <li><a href="https://github.com/UlissesCurvelloFerreira/Exercicios">Project 3</a> - Brief description of project 3.</li>
 
-<div align="center">
-  
 <br>
 <br>
 <br>
@@ -31,9 +25,6 @@
 <h1>Contact</h1>
 
 <p style="text-align: justify;">If you have any questions, collaboration opportunities, or just want to chat, feel free to get in touch with me. You can reach me at the following email address: [Your email address]. I am always eager to learn and grow, so don't hesitate to connect with me.</p>
-
-</div>
-
 
 <br>
 <br>
@@ -58,3 +49,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=20&center=true&width=1000&lines=Thanks+for+the+visit.)](https://git.io/typing-svg)
 
 <img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=100&section=footer"/>
+<div align="center">
+</div>

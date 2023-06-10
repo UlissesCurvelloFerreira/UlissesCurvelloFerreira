@@ -20,7 +20,7 @@
 
   <li><a href="https://example.com/project1">Project 1</a> - Brief description of project 1.</li>
   <li><a href="https://example.com/project2">Project 2</a> - Brief description of project 2.</li>
-  <li><a href="https://example.com/project3">Project 3</a> - Brief description of project 3.</li>
+  <li><a href="https://github.com/UlissesCurvelloFerreira/Exercicios">Project 3</a> - Brief description of project 3.</li>
 
 <div align="center">
   

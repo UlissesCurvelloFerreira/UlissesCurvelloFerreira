@@ -14,9 +14,10 @@
 
 <h1>Recent Projects</h1>
 
+  <li><a href="https://github.com/UlissesCurvelloFerreira/Prog2/tree/master">Project 1</a> - trabalho de Prog2.</li>
   <li><a href="https://example.com/project2">Project 2</a> - Brief description of project 2.</li>
   <li><a href="https://github.com/UlissesCurvelloFerreira/Exercicios">Project 3</a> - Brief description of project 3.</li>
-  <li><a href="[https://example.com/project1](https://github.com/UlissesCurvelloFerreira/Prog2/tree/master)">Project 1</a> - trabalho de Prog2.</li>
+
 
 <br>
 <br>

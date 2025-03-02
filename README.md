@@ -47,10 +47,10 @@ If you have any questions, collaboration opportunities, or just want to chat, fe
 ---
 
 ## Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UlissesCurvelloFerreira&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=778899&bg_color=0000" width="49%"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=UlissesCurvelloFerreira&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=778899&bg_color=0000" style="width: 100%; max-width: 48%;"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesCurvelloFerreira&layout=compact&hide_border=true&title_color=4169E1&text_color=778899&bg_color=0000" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesCurvelloFerreira&layout=compact&hide_border=true&title_color=4169E1&text_color=778899&bg_color=0000" style="width: 100%; max-width: 48%;"/>
 </div>
 
 ---

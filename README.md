@@ -48,16 +48,16 @@ If you have any questions, collaboration opportunities, or just want to chat, fe
 
 ## Stats
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=UlissesCurvelloFerreira&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=778899&bg_color=0000" style="width: 100%; max-width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=UlissesCurvelloFerreira&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=778899&bg_color=0000" style="width: 100%; max-width: 450px;"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesCurvelloFerreira&layout=compact&hide_border=true&title_color=4169E1&text_color=778899&bg_color=0000" style="width: 100%; max-width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesCurvelloFerreira&layout=compact&hide_border=true&title_color=4169E1&text_color=778899&bg_color=0000" style="width: 100%; max-width: 450px;"/>
 </div>
 
 ---
 
 ## Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UlissesCurvelloFerreira&bg_color=00&color=4169E1&line=1100ff&point=808080&area=false&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UlissesCurvelloFerreira&bg_color=00&color=4169E1&line=1100ff&point=808080&area=false&hide_border=true" style="width: 100%; max-width: 600px;"/>
 </div>
 
 ---

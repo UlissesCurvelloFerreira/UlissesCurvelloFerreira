@@ -4,12 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=30&center=true&width=1000&lines=Welcome+to+my+profile;HELLO,+My+name+is+Ulisses;Computer+science+student+:%29)](https://git.io/typing-svg)
 
----
+
 
 ## About Me
 Hello, my name is Ulisses and I am a technology enthusiast and a student passionate about creating innovative solutions through programming. Currently, I am studying at UFPR (Federal University of Paraná) and constantly seeking opportunities to expand my knowledge and enhance my skills.
 
----
 
 ## Recent Projects
 <table>
@@ -27,7 +26,7 @@ Hello, my name is Ulisses and I am a technology enthusiast and a student passion
   </tr>
 </table>
 
----
+
 
 ## Contact
 If you have any questions, collaboration opportunities, or just want to chat, feel free to get in touch with me:
@@ -44,23 +43,21 @@ If you have any questions, collaboration opportunities, or just want to chat, fe
   </a>
 </div>
 
----
+
 
 ## Stats
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=UlissesCurvelloFerreira&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=778899&bg_color=0000" style="width: 100%; max-width: 450px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=UlissesCurvelloFerreira&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=778899&bg_color=0000" style="width: 48%; max-width: 450px;"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesCurvelloFerreira&layout=compact&hide_border=true&title_color=4169E1&text_color=778899&bg_color=0000" style="width: 100%; max-width: 450px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesCurvelloFerreira&layout=compact&hide_border=true&title_color=4169E1&text_color=778899&bg_color=0000" style="width: 48%; max-width: 450px;"/>
 </div>
-
----
 
 ## Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=UlissesCurvelloFerreira&bg_color=00&color=4169E1&line=1100ff&point=808080&area=false&hide_border=true" style="width: 100%; max-width: 600px;"/>
 </div>
 
----
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=20&center=true&width=1000&lines=Thanks+for+the+visit.)](https://git.io/typing-svg)
 

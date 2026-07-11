@@ -1,25 +1,26 @@
 import json
 import os
 import re
+import urllib.parse
 import urllib.request
 
 USERNAME = "UlissesCurvelloFerreira"
 MAX_EVENTS = 10
 README_PATH = "README.md"
 
-# tipo do evento -> (rótulo do badge, cor "positiva")
+# tipo do evento -> (rótulo, cor hex sem #)
 TYPE_MAP = {
-    "PushEvent": ("commit", "#1f6feb"),
-    "CreateEvent": ("criação", "#2ea44f"),
-    "WatchEvent": ("estrelou", "#d4a72c"),
-    "ForkEvent": ("fork", "#8957e5"),
-    "PullRequestEvent": ("pull request", "#1f6feb"),
-    "IssuesEvent": ("issue", "#bf8700"),
-    "IssueCommentEvent": ("comentário", "#bf8700"),
-    "ReleaseEvent": ("release", "#2ea44f"),
-    "DeleteEvent": ("remoção", "#6e7681"),
+    "PushEvent": ("commit", "1f6feb"),
+    "CreateEvent": ("criação", "2ea44f"),
+    "WatchEvent": ("estrelou", "d4a72c"),
+    "ForkEvent": ("fork", "8957e5"),
+    "PullRequestEvent": ("pull request", "1f6feb"),
+    "IssuesEvent": ("issue", "bf8700"),
+    "IssueCommentEvent": ("comentário", "bf8700"),
+    "ReleaseEvent": ("release", "2ea44f"),
+    "DeleteEvent": ("remoção", "6e7681"),
 }
-DEFAULT = ("atividade", "#6e7681")
+DEFAULT = ("atividade", "6e7681")
 
 
 def fetch_events():
@@ -33,40 +34,42 @@ def fetch_events():
         return json.load(resp)
 
 
-def build_card(event):
+def badge_url(label, color, logo=None):
+    text = urllib.parse.quote(label.replace(" ", "_"))
+    url = f"https://img.shields.io/badge/{text}-{color}?style=for-the-badge"
+    if logo:
+        url += f"&logo={logo}&logoColor=white"
+    return url
+
+
+def build_row(event):
     etype = event.get("type", "")
     label, color = TYPE_MAP.get(etype, DEFAULT)
-    text_color = "#1c1200" if etype == "WatchEvent" else "#fff"
     repo = event["repo"]["name"]
     repo_url = f"https://github.com/{repo}"
+
+    label_badge = badge_url(label, color)
+    repo_badge = badge_url("Ver repositório", "1f6feb", logo="github")
+
     return (
-        '<div style="display:flex;align-items:center;justify-content:space-between;'
-        'gap:12px;border:1px solid #30363d;border-radius:10px;padding:12px 16px;'
-        'margin-bottom:10px;background:#161b22;">'
-        '<div style="display:flex;align-items:center;gap:10px;">'
-        f'<span style="background:{color};color:{text_color};padding:4px 10px;'
-        'border-radius:20px;font-size:12px;font-weight:bold;white-space:nowrap;'
-        f'min-width:150px;text-align:center;overflow:hidden;text-overflow:ellipsis;'
-        f'display:inline-block;">{label}</span>'
-        f'<span style="color:#c9d1d9;font-size:14px;">em '
-        f'<a href="{repo_url}" style="color:#58a6ff;text-decoration:underline;">{repo}</a></span>'
-        '</div>'
-        f'<a href="{repo_url}"><img src="https://img.shields.io/badge/'
-        'Ver_reposit%C3%B3rio-1f6feb?style=for-the-badge&logo=github&logoColor=white"/></a>'
-        '</div>'
+        "<tr>"
+        f'<td><img src="{label_badge}"/> em '
+        f'<a href="{repo_url}">{repo}</a></td>'
+        f'<td align="right"><a href="{repo_url}"><img src="{repo_badge}"/></a></td>'
+        "</tr>"
     )
 
 
 def main():
     events = fetch_events()[:MAX_EVENTS]
-    cards = "\n".join(build_card(e) for e in events)
+    rows = "\n".join(build_row(e) for e in events)
 
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
 
     new_content = re.sub(
         r"(<!--START_SECTION:activity-->)(.*)(<!--END_SECTION:activity-->)",
-        lambda m: f"{m.group(1)}\n{cards}\n{m.group(3)}",
+        lambda m: f"{m.group(1)}\n{rows}\n{m.group(3)}",
         content,
         flags=re.DOTALL,
     )

@@ -5,7 +5,7 @@ import urllib.parse
 import urllib.request
 
 USERNAME = "UlissesCurvelloFerreira"
-MAX_EVENTS = 10
+MAX_EVENTS = 5
 README_PATH = "README.md"
 
 # tipo do evento -> (rótulo, cor hex sem #)

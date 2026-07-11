@@ -7,33 +7,19 @@
 ## About Me
 Hello, my name is Ulisses and I am a technology enthusiast and a student passionate about creating innovative solutions through programming. Currently, I am studying at UFPR (Federal University of Paraná) and constantly seeking opportunities to expand my knowledge and enhance my skills.
 
-## Recent Projects
+## 🕒 Recently Updated
 <table>
-  <tr>
-    <td>
-      <a href="https://github.com/UlissesCurvelloFerreira/Sistemas_Operacionais_CI1215">
-        📌 Sistemas Operacionais
-      </a>
-    </td>
-    <td>Projects and activities from the Operating Systems course.</td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/UlissesCurvelloFerreira/Materias_UFPR/tree/main/AprendizadoMaquina">
-        📌 Aprendizado de Máquina
-      </a>
-    </td>
-    <td>Activities and studies related to Machine Learning.</td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/UlissesCurvelloFerreira/Materias_UFPR/tree/main/Prog2">
-        📌 Programação 2
-      </a>
-    </td>
-    <td>Assignments and exercises from the Programming 2 course.</td>
-  </tr>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 </table>
+
+
+
+## Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UlissesCurvelloFerreira&bg_color=00&color=4169E1&line=1100ff&point=808080&area=false&hide_border=true" style="width: 100%; max-width: 600px;"/>
+</div>
+
 
 ## Contact
 If you have any questions, collaboration opportunities, or just want to chat, feel free to get in touch with me:
@@ -48,29 +34,6 @@ If you have any questions, collaboration opportunities, or just want to chat, fe
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
-
-## Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UlissesCurvelloFerreira&bg_color=00&color=4169E1&line=1100ff&point=808080&area=false&hide_border=true" style="width: 100%; max-width: 600px;"/>
-</div>
-
-
-
-## 🕒 Recently Updated
-<table align="center">
-<!--START_SECTION:activity-->
-<tr><td nowrap><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/></td><td>em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
-<tr><td nowrap><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/></td><td>em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
-<tr><td nowrap><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/></td><td>em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
-<tr><td nowrap><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/></td><td>em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
-<tr><td nowrap><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/></td><td>em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
-<tr><td nowrap><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/></td><td>em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
-<tr><td nowrap><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/></td><td>em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
-<tr><td nowrap><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/></td><td>em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
-<tr><td nowrap><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/></td><td>em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
-<tr><td nowrap><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/></td><td>em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
-<!--END_SECTION:activity-->
-</table>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=20&center=true&width=1000&lines=Thanks+for+the+visit.)](https://git.io/typing-svg)
 

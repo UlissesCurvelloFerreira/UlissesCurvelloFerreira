@@ -55,8 +55,9 @@ If you have any questions, collaboration opportunities, or just want to chat, fe
 </div>
 
 
+
 ## 🕒 Recently Updated
-<table>
+<table align="center">
 <!--START_SECTION:activity-->
 <tr><td nowrap><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/></td><td>em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
 <tr><td nowrap><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/></td><td>em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>

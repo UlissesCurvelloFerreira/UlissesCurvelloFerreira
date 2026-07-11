@@ -52,8 +52,10 @@ def build_row(event):
     repo_badge = badge_url("Ver repositório", "1f6feb", logo="github")
 
     return (
-        f'<img src="{label_badge}"/> em {repo} '
-        f'<a href="{repo_url}"><img src="{repo_badge}"/></a><br><br>'
+        "<tr>"
+        f'<td nowrap><img src="{label_badge}"/> em {repo}</td>'
+        f'<td align="right" nowrap><a href="{repo_url}"><img src="{repo_badge}"/></a></td>'
+        "</tr>"
     )
 
 

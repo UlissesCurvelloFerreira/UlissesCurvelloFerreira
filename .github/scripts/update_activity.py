@@ -53,8 +53,7 @@ def build_row(event):
 
     return (
         "<tr>"
-        f'<td><img src="{label_badge}"/> em '
-        f'<a href="{repo_url}">{repo}</a></td>'
+        f'<td><img src="{label_badge}"/> em {repo}</td>'
         f'<td align="right" nowrap><a href="{repo_url}"><img src="{repo_badge}"/></a></td>'
         "</tr>"
     )

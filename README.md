@@ -54,20 +54,12 @@ If you have any questions, collaboration opportunities, or just want to chat, fe
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=UlissesCurvelloFerreira&bg_color=00&color=4169E1&line=1100ff&point=808080&area=false&hide_border=true" style="width: 100%; max-width: 600px;"/>
 </div>
 
-## 🕒 Recently Updated
-<!--START_SECTION:activity-->
-<img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/> em UlissesCurvelloFerreira/UlissesCurvelloFerreira <a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a><br><br>
-<img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/> em UlissesCurvelloFerreira/UlissesCurvelloFerreira <a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a><br><br>
-<img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/> em UlissesCurvelloFerreira/UlissesCurvelloFerreira <a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a><br><br>
-<img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/> em UlissesCurvelloFerreira/UlissesCurvelloFerreira <a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a><br><br>
-<img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/> em UlissesCurvelloFerreira/UlissesCurvelloFerreira <a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a><br><br>
-<img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/> em UlissesCurvelloFerreira/UlissesCurvelloFerreira <a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a><br><br>
-<img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/> em UlissesCurvelloFerreira/UlissesCurvelloFerreira <a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a><br><br>
-<img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/> em UlissesCurvelloFerreira/UlissesCurvelloFerreira <a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a><br><br>
-<img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/> em UlissesCurvelloFerreira/UlissesCurvelloFerreira <a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a><br><br>
-<img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/> em UlissesCurvelloFerreira/UlissesCurvelloFerreira <a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a><br><br>
-<!--END_SECTION:activity-->
 
+## 🕒 Recently Updated
+<table>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</table>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=20&center=true&width=1000&lines=Thanks+for+the+visit.)](https://git.io/typing-svg)
 

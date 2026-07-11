@@ -7,7 +7,7 @@
 ## About Me
 Hello, my name is Ulisses and I am a technology enthusiast and a student passionate about creating innovative solutions through programming. Currently, I am studying at UFPR (Federal University of Paraná) and constantly seeking opportunities to expand my knowledge and enhance my skills.
 
-## 🕒 Recently Updated
+## Recently Updated
 <table>
 <!--START_SECTION:activity-->
 <tr><td nowrap><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/></td><td>em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>

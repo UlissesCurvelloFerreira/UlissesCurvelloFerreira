@@ -36,7 +36,7 @@ def fetch_events():
 
 def badge_url(label, color, logo=None):
     text = urllib.parse.quote(label.replace(" ", "_"))
-    url = f"https://img.shields.io/badge/{text}-{color}?style=for-the-badge"
+    url = f"https://img.shields.io/badge/{text}-{color}?style=flat-square"
     if logo:
         url += f"&logo={logo}&logoColor=white"
     return url
@@ -55,7 +55,7 @@ def build_row(event):
         "<tr>"
         f'<td><img src="{label_badge}"/> em '
         f'<a href="{repo_url}">{repo}</a></td>'
-        f'<td align="right"><a href="{repo_url}"><img src="{repo_badge}"/></a></td>'
+        f'<td align="right" nowrap><a href="{repo_url}"><img src="{repo_badge}"/></a></td>'
         "</tr>"
     )
 

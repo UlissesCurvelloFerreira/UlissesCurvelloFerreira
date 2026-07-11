@@ -56,15 +56,16 @@ If you have any questions, collaboration opportunities, or just want to chat, fe
 
 ## 🕒 Recently Updated
 <!--START_SECTION:activity-->
-## 🕒 Recently Updated
-<table width="100%">
-<colgroup>
-<col width="70%">
-<col width="30%">
-</colgroup>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-</table>
+<tr><td><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/> em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
+<tr><td><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/> em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
+<tr><td><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/> em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
+<tr><td><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/> em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
+<tr><td><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/> em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
+<tr><td><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/> em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
+<tr><td><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/> em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
+<tr><td><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/> em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
+<tr><td><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/> em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
+<tr><td><img src="https://img.shields.io/badge/commit-1f6feb?style=flat-square"/> em UlissesCurvelloFerreira/UlissesCurvelloFerreira</td><td align="right" nowrap><a href="https://github.com/UlissesCurvelloFerreira/UlissesCurvelloFerreira"><img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-1f6feb?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
 <!--END_SECTION:activity-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=20&center=true&width=1000&lines=Thanks+for+the+visit.)](https://git.io/typing-svg)

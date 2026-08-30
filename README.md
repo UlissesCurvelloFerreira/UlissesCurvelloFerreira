@@ -38,7 +38,12 @@ If you have any questions, collaboration opportunities, or just want to chat, fe
   <a href="https://github.com/UlissesCurvelloFerreira">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://www.inf.ufpr.br/ucf22/">
+    <img src="https://img.shields.io/badge/Website-6C8EBF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 </div>
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=20&center=true&width=1000&lines=Thanks+for+the+visit.)](https://git.io/typing-svg)
 

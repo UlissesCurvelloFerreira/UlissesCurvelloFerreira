@@ -19,12 +19,12 @@ Hello, my name is Ulisses and I am a technology enthusiast and a student passion
 </table>
 
 
-
+<!--
 ## Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=UlissesCurvelloFerreira&bg_color=00&color=4169E1&line=1100ff&point=808080&area=false&hide_border=true" style="width: 100%; max-width: 600px;"/>
 </div>
-
+-->
 
 ## Contact
 If you have any questions, collaboration opportunities, or just want to chat, feel free to get in touch with me:

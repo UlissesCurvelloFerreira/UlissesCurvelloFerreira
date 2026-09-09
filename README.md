@@ -26,7 +26,6 @@ Hello, my name is Ulisses and I am a technology enthusiast and a student passion
 </div>
 -->
 
-<img src="./profile-banner.svg" width="100%"
 
 ## Contact
 If you have any questions, collaboration opportunities, or just want to chat, feel free to get in touch with me:
@@ -47,8 +46,6 @@ If you have any questions, collaboration opportunities, or just want to chat, fe
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=20&center=true&width=1000&lines=Thanks+for+the+visit.)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=100&section=footer" width="100%"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=20&center=true&width=1000&lines=Thanks+for+the+visit.)](https://git.io/typing-svg)
+<img src="./profile-banner.svg" width="100%">

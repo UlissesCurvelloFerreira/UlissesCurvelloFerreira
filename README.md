@@ -26,6 +26,8 @@ Hello, my name is Ulisses and I am a technology enthusiast and a student passion
 </div>
 -->
 
+<img src="./profile-banner.svg" width="100%"
+
 ## Contact
 If you have any questions, collaboration opportunities, or just want to chat, feel free to get in touch with me:
 <div align="center">
